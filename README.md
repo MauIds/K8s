@@ -27,13 +27,12 @@ Este proyecto implementa un sistema completo de autenticación de usuarios que i
 
 - HTML5
 - CSS3
-- JavaScript
+- PHP
 
 ### DevOps & Infraestructura
 
 - Docker
 - Kubernetes (minikube)
-- Docker Compose
 
 ## 🔧 Configuración y Despliegue
 
